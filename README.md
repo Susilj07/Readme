@@ -8,3 +8,5 @@ about
 creating MAIN and naming it with Readme.
 and then creating another BRANCH named Readme_edit.
 editing the the source file and commiting
+
+clonned the readme repository locally in my computer through git
